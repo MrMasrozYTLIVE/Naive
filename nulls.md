@@ -3,9 +3,9 @@
 It contains Nulls proxy!
 
 
-## nullls
+## nulls
 
 Welp it is nulls
 
-sdns://AgcAAAAAAAAADTE0MS45NS45Ny4xMjAAEmRucy5udWxsc3Byb3h5LmNvbQA
+sdns://AgcAAAAAAAAADTE0MS45NS45Ny4xMjAAEmRucy5udWxsc3Byb3h5LmNvbQovZG5zLXF1ZXJ5
 
