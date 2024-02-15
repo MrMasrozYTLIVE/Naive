@@ -7,5 +7,5 @@ It contains Nulls proxy!
 
 Welp it is nulls
 
-sdns://AwcAAAAAAAAAAAARZG5zLm51bGxzcHJveHkuY28
+sdns://AgcAAAAAAAAADTE0MS45NS45Ny4xMjAAEmRucy5udWxsc3Byb3h5LmNvbQA
 
